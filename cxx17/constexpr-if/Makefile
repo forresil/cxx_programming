@@ -6,3 +6,6 @@ constexpr-if.o: constexpr-if.cc clear
 
 clear:
 	clear
+
+clean:
+	rm *.o constexpr-if
