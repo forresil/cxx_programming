@@ -3,3 +3,6 @@ foldExpr: foldExpr.o
 
 foldExpr.o: foldExpr.cc
 	g++ -std=c++17 -c foldExpr.cc
+
+clean:
+	rm *.o foldExpr
