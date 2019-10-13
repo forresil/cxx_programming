@@ -3,3 +3,6 @@ ifSwitchInit: ifSwitchInit.o
 
 ifSwitchInit.o: ifSwitchInit.cc
 	g++ -std=c++17 -c ifSwitchInit.cc
+
+clean:
+	rm *.o ifSwitchInit
