@@ -1,0 +1,8 @@
+*.o
+clamp
+any
+constexpr-if
+foldExpr
+ifSwitchInit
+invoke
+myprog
