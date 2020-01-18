@@ -1,4 +1,4 @@
-# CXX_PROGRAMMING
+# cxx_programming
 
 Repository with snipets and examples of the C++ programming language.
 
