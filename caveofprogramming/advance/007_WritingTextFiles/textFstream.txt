@@ -1,0 +1,2 @@
+Text from fstream
+123
